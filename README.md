@@ -12,4 +12,4 @@ This repository contains a simple java application used for the demonstration of
 2. [Github](http://github.com/Hung0811)
 3. [Email](nghungg0811@gmail.com)
 
-### © 2020 by Hung Nguyen | FPT University HCMC
+### © 2020 by Hung Nguyen Handsome | FPT University HCMC
