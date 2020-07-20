@@ -27,6 +27,7 @@ public class UnitTestTest {
         //ta phai dung
 
         computeFactorial(-5);
+        computeFactorial(20);
     }
     //du code ban viet co do hay xanh ko bi loi cu phap khi go, loi import
     //thi CLEAN & BUILD LUON RA FILE .JAR .WAR
